@@ -1,0 +1,2 @@
+include ':app', ':campanaextractora'
+rootProject.name='Home Automation'
